@@ -1,8 +1,8 @@
 # PythonUrlScanPrj
 Scan a url for all internal and external links as chosen in GUI
 
-1.Dowload this files (Zip file)
-2.In order to run this in pychrm one must include/ install in his project:
+#1.Dowload this files (Zip file)
+#2.In order to run this in pychrm one must include/ install in his project:
   a.tkinter
   b.multitasking
   c.time
